@@ -1,4 +1,4 @@
-# Taller 1: Plataforma de Turismo Inteligente del Departamento de Sucre 🏖️
+# Taller 1: Plataforma de Turismo Inteligente del Departamento de Sucre 
 
 ## 1. Contexto
 El departamento de Sucre posee una gran diversidad de atractivos turísticos: playas, cultura, gastronomía, naturaleza y festividades tradicionales. Sin embargo, gran parte de la oferta turística se encuentra fragmentada y poco digitalizada. Muchos servicios turísticos como guías, transporte, hospedaje y actividades locales operan de manera aislada, lo que dificulta que los turistas encuentren información confiable, planifiquen experiencias completas o realicen reservas de forma sencilla.
